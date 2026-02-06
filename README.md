@@ -3,14 +3,14 @@
 
 ```diff
 < Caique "meryk" Nunes ❄️
-< Rio de Janeiro, Rio de Janeiro 📍
 
 > Gosta muito de Música;
-> Gosta de Matemática e Tecnologia;
+> Gosta de Desenhos Animados;
+> Gosta de Matemática e Tecnologia.
  
 ! Entusiasta em Segurança da Informação
+! Curioso em Engenharia Reversa e Computação Forense
 
-- Estudante de Ciência da Computação pela UERJ
 ```
 #### 🔗 Me encontre
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@meryk/)
