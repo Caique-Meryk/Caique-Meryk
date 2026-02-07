@@ -1,4 +1,4 @@
-<!-- Este README foi inspirado deste repositório: https://github.com/levxyca/levxyca -->
+<!-- Este README foi inspirado neste repositório: https://github.com/levxyca/levxyca -->
 <img align="right" height="200" src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif"/>
 
 ```diff
